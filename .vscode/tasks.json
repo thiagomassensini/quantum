@@ -1,0 +1,30 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Quantum Relativity Simulations",
+			"type": "shell",
+			"command": "/home/thlinux/scripts/quantum/.venv/bin/python",
+			"args": [
+				"simulations/spacetime_dilation.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Launch Jupyter Lab",
+			"type": "shell",
+			"command": "/home/thlinux/scripts/quantum/.venv/bin/jupyter",
+			"args": [
+				"lab",
+				"--allow-root",
+				"--ip=0.0.0.0",
+				"--port=8888"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
