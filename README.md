@@ -1,7 +1,28 @@
 # 🧠 **"Horizonte -1": Exercício Dialético sobre Unificação Física**
 
 [![GitHub](https://img.shields.io/badge/GitHub-thiagomassensini%2Fquanta-blue?logo=github)](https://github.com/thiagomassensini/quanta)
-[![Python](https://img.shields.io/badge/Python-3.13+-green?logo=python)](https://python.org)
+[![Python](https://img.shields.io## 📄 **Licença e Créditos**
+
+Este projeto está licenciado sob MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 🙏 **Agradecimentos Filosóficos**
+
+Gratidão aos pensadores que inspiraram esta abordagem dialética:
+- **G.W.F. Hegel** - *Ciência da Lógica* (método dialético)
+- **Karl Popper** - *A Lógica da Pesquisa Científica* (falseabilidade)  
+- **Thomas Kuhn** - *A Estrutura das Revoluções Científicas* (paradigmas)
+- **Paul Feyerabend** - *Contra o Método* (anarquismo epistemológico)
+
+E aos físicos cujos fundamentos permitiram este experimento intelectual:
+- **Relatividade Geral** (Einstein) + **Mecânica Quântica** (Heisenberg, Schrödinger)
+
+---
+
+### 🎓 **RESULTADO FINAL DO EXPERIMENTO DIALÉTICO**
+
+**🧠 SÍNTESE ALCANÇADA**: Demonstração de como o pensamento dialético rigoroso pode revelar **limites epistemológicos fundamentais** na física teórica, gerando conhecimento através da **refutação sistemática** ao invés de confirmação superficial.
+
+*"O valor desta investigação não reside em ter descoberto nova física, mas em ter demonstrado como a dialética pode iluminar os fundamentos do conhecimento científico."*thon-3.13+-green?logo=python)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
 [![Philosophy](https://img.shields.io/badge/Philosophy-Dialectical%20Physics-purple?logo=atom)](https://github.com/thiagomassensini/quanta)
 [![Status](https://img.shields.io/badge/Status-Exercício%20Filosófico-blue)](https://github.com/thiagomassensini/quanta)
@@ -67,15 +88,9 @@ a_Unruh = α*a_Mink + β*b†_Mink
 
 ### 🚨 **LIMITAÇÕES CRÍTICAS IDENTIFICADAS**
 - **Problema de Testabilidade**: Predições em escalas experimentalmente inacessíveis
-- **Interpretações Especulativas**: Conexões com física nuclear carecem de derivações formais  
-- **Consistência Incompleta**: Ausência de provas profundas (renormalização, causalidade)
-- **Validação Limitada**: Apenas interna, não por revisão de pares independente
-
-### 🧬 **Física Nuclear Revolucionária**
-- **Decaimento β⁻**: n → p + e⁻ + ν̄_e como liberação de informação confinada
-- **"Velocidade de Spin Faltante"**: Momento angular codificado na geometria do espaço-tempo
-- **Confinamento de Quarks**: Partículas onde informação "não pode escapar"
-- **LHC**: Aceleração artificial pode alterar estrutura interna dos hádrons
+- **Insight Principal**: Processo de refutação revela mais que confirmação
+- **Descoberta Metodológica**: Antíteses simples > análises complexas
+- **Lição Filosófica**: "Falhar bem" é tão valioso quanto "ter sucesso"
 
 ## 💀 **REFUTAÇÃO DEFINITIVA** (A Antítese Vence)
 
@@ -93,11 +108,11 @@ a_Unruh = α*a_Mink + β*b†_Mink
 ## 🏗️ **Implementação Técnica** (Para Rigor do Experimento Dialético)
 
 ```
-quantum/
-├── 📊 simulations/               # Implementações científicas rigorosas
-│   ├── spacetime_dilation.py    # ✅ Simulador corrigido + integração QFT
-│   └── quantum_observer.py      # ✅ QFT + Predições + Limites
-├── 📓 notebooks/                # Análise científica completa  
+quanta/
+├── 📊 simulations/               # Implementação da tese + testes de refutação
+│   ├── spacetime_dilation.py    # 🎭 TESE: Simulação geométrica + integração QFT
+│   └── quantum_observer.py      # ⚔️ ANTÍTESE: Testes sistemáticos de refutação
+├── 📓 notebooks/                # 🧠 SÍNTESE: Análise dialética completa  
 │   └── quantum_relativity_exploration.ipynb  # ✅ 72 células validadas
 ├── 📚 docs/                     # Fundamentação teórica
 │   └── theoretical_framework.md # Framework matemático
