@@ -285,15 +285,38 @@ if __name__ == "__main__":
         print(f"   • Massa solar: {mass_natural:.2e} [unidades naturais]")
         print(f"   • Dilatação QFT: τ = {observer_dilation:.6f}")
         
-        # Executar análise crítica das limitações
-        print(f"\n⚠️ ANÁLISE CRÍTICA DAS LIMITAÇÕES:")
+        # Executar análise crítica rigorosa das limitações
+        print(f"\n⚠️ ANÁLISE CRÍTICA RIGOROSA:")
+        
+        # Testar conexões nucleares especulativas
+        nuclear_analysis = observer.critical_analysis.evaluate_nuclear_connections()
+        
+        # Testar consistência matemática
+        consistency_analysis = observer.critical_analysis.evaluate_consistency_gaps()
+        
+        # Testar antíteses fundamentais  
+        antithesis_analysis = observer.critical_analysis.test_fundamental_antitheses()
+        
+        # Status científico honesto
         critical_results = observer.critical_analysis.honest_scientific_status()
         
-        print(f"\n🎯 SISTEMA INTEGRADO COM RECONHECIMENTO DE LIMITAÇÕES:")
+        print(f"\n🎯 RESULTADO DA ANÁLISE RIGOROSA:")
+        print(f"   • Conexões nucleares: {nuclear_analysis.get('mathematical_rigor', 'N/A')}")
+        print(f"   • Consistência matemática: {consistency_analysis.get('consistency_status', 'N/A')}")
+        print(f"   • Antíteses identificadas: {antithesis_analysis.get('fatal_antitheses', 0)}")
+        print(f"   • Veredicto: {antithesis_analysis.get('refutation_status', 'N/A')}")
+        
+        # Status final integrado
+        print(f"\n🎯 SISTEMA INTEGRADO COM ANÁLISE CRÍTICA:")
         print(f"   • SpacetimeDilationSimulator + QuantumObserverFramework")
-        print(f"   • QFT formal + Simulações numéricas")
-        print(f"   • Status: {critical_results['honest_status']}")
-        print(f"   • Teoria Horizonte-1: FRAMEWORK EM DESENVOLVIMENTO")
+        print(f"   • QFT formal + Simulações numéricas + Testes de refutação")
+        
+        if antithesis_analysis.get('fatal_antitheses', 0) > 0:
+            print(f"   • Status: TEORIA COM CONTRADIÇÕES FUNDAMENTAIS")
+            print(f"   • Teoria Horizonte-1: REFUTADA por antíteses simples")
+        else:
+            print(f"   • Status: Framework em desenvolvimento com limitações reconhecidas")
+            print(f"   • Teoria Horizonte-1: FRAMEWORK EM DESENVOLVIMENTO")
         
     except ImportError:
         print("⚠️ quantum_observer não disponível para integração")
