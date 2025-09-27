@@ -285,10 +285,15 @@ if __name__ == "__main__":
         print(f"   • Massa solar: {mass_natural:.2e} [unidades naturais]")
         print(f"   • Dilatação QFT: τ = {observer_dilation:.6f}")
         
-        print(f"\n🎯 SISTEMA INTEGRADO E OPERACIONAL!")
+        # Executar análise crítica das limitações
+        print(f"\n⚠️ ANÁLISE CRÍTICA DAS LIMITAÇÕES:")
+        critical_results = observer.critical_analysis.honest_scientific_status()
+        
+        print(f"\n🎯 SISTEMA INTEGRADO COM RECONHECIMENTO DE LIMITAÇÕES:")
         print(f"   • SpacetimeDilationSimulator + QuantumObserverFramework")
         print(f"   • QFT formal + Simulações numéricas")
-        print(f"   • Teoria Horizonte-1: IMPLEMENTADA COMPLETAMENTE")
+        print(f"   • Status: {critical_results['honest_status']}")
+        print(f"   • Teoria Horizonte-1: FRAMEWORK EM DESENVOLVIMENTO")
         
     except ImportError:
         print("⚠️ quantum_observer não disponível para integração")

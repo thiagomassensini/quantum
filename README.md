@@ -1,21 +1,42 @@
-# 🌌 Teoria "Horizonte -1": Unificação Científica Relatividade-Quântica
+# 🌌 Teoria "Horizonte -1": Framework Unificação Relatividade-Quântica
 
-[![GitHub](https://img.shields.io/badge/GitHub-thiagomassensini%2Fquantum-blue?logo=github)](https://github.com/thiagomassensini/quantum)
+[![GitHub](https://img.shields.io/badge/GitHub-thiagomassensini%2Fquantum-blue?logo=github)](https://github.com/thiagomassensin## 🎯 **STATUS CIENTÍFICO HONESTO**
+
+**SETEMBRO 2025**: Teoria "Horizonte -1" **FRAMEWORK EM DESENVOLVIMENTO**
+
+### ✅ **CONQUISTAS SÓLIDAS:**
+- **QFT em spacetime curvo** implementado seguindo Birrell & Davies  
+- **Recuperação de limites** físicos validada matematicamente
+- **Sistema computacional** integrado e funcional
+- **Abordagem criativa** para unificação RG-QM
+
+### ⚠️ **LIMITAÇÕES RECONHECIDAS:**
+- **Predições experimentais** em escalas inacessíveis (10³²-10⁴⁴x gaps)
+- **Interpretações nucleares** carecem de derivações formais rigorosas
+- **Consistência profunda** requer provas adicionais (renormalização, causalidade)  
+- **Validação por pares** ainda pendente
+
+### 💡 **STATUS ATUAL:**
+**"Framework promissor em desenvolvimento ativo, adequado para apresentação acadêmica como work-in-progress, com necessidade de colaborações para resolver limitações de testabilidade."**
+
+---
+
+### 🌌 **"A unificação requer não apenas criatividade matemática, mas também honestidade sobre limitações e compromisso com o desenvolvimento contínuo."** - Abordagem "Horizonte -1")
 [![Python](https://img.shields.io/badge/Python-3.13+-green?logo=python)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Lab-orange?logo=jupyter)](https://jupyter.org)
 [![Physics](https://img.shields.io/badge/Physics-Theoretical-red?logo=atom)](https://github.com/thiagomassensini/quantum)
-[![Status](https://img.shields.io/badge/Status-Cientificamente%20Validado-success)](https://github.com/thiagomassensini/quantum)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/thiagomassensini/quantum)
 
-## 🎯 **TEORIA FORMALMENTE IMPLEMENTADA**: Framework Científico Rigoroso
+## 🔬 **FRAMEWORK EM DESENVOLVIMENTO**: Abordagem Promissora para Unificação RG-QM
 
-> **Status de Desenvolvimento**: ✅ **FASE DE VALIDAÇÃO CIENTÍFICA CONCLUÍDA**  
-> **Evolução**: "Especulação inicial" → "Framework científico rigoroso e testável"  
-> **Próxima Etapa**: Literatura review e colaborações experimentais
+> **Status Atual**: 🔄 **DESENVOLVIMENTO ATIVO COM LIMITAÇÕES RECONHECIDAS**  
+> **Evolução**: "Especulação inicial" → "Framework matemático implementado" → "Análise crítica das limitações"  
+> **Próxima Etapa**: Resolver limitações de testabilidade e buscar revisão por pares
 
 ### 💡 **Conceito Revolucionário**
 Descobrimos que **todos os fenômenos quânticos** ocorrem em regiões onde a informação **"quase não pode escapar"** - um estado que chamamos de **"Horizonte -1"**. Esta descoberta unifica Relatividade Geral e Mecânica Quântica através de um princípio fundamental único.
 
-## 🔬 **IMPLEMENTAÇÕES CIENTÍFICAS VALIDADAS**
+## 🔬 **IMPLEMENTAÇÕES CIENTÍFICAS E LIMITAÇÕES RECONHECIDAS**
 
 ### ✅ **1. TEORIA QUÂNTICA DE CAMPOS EM SPACETIME CURVO (QFT)**
 ```python
@@ -34,12 +55,18 @@ a_Unruh = α*a_Mink + β*b†_Mink
 - **Limite não-relativístico**: v/c ≪ 1 → Mecânica Quântica ✅
 - **Validação numérica** com parâmetros físicos reais ✅
 
-### ✅ **3. PREDIÇÕES EXPERIMENTAIS QUANTIFICADAS**
-| Experimento | Predição | Detectabilidade |
-|-------------|----------|-----------------|
-| **Interferometria Atômica** | Δφ_qg ~ 10⁻⁴² rad | ❌ Tecnologia atual |
-| **Decoerência Gravitacional** | τ ~ 10⁶¹ s | ✅ Princípio detectável |
-| **Cosmologia (z=1)** | ΔH/H₀ ~ 10²⁰ | ✅ Surveys futuros |
+### ⚠️ **3. PREDIÇÕES EXPERIMENTAIS (COM LIMITAÇÕES CRÍTICAS)**
+| Experimento | Predição | Detectabilidade | Gap Tecnológico |
+|-------------|----------|-----------------|------------------|
+| **Interferometria Atômica** | Δφ_qg ~ 10⁻⁴² rad | ❌ Inacessível | 10³²x melhor precisão |
+| **Decoerência Gravitacional** | τ ~ 10⁶¹ s | ❌ Fisicamente irrelevante | 10⁴⁴x idade do universo |
+| **Cosmologia (z=1)** | ΔH/H₀ ~ 10²⁰ | ✅ Potencialmente observável | Dentro do alcance |
+
+### 🚨 **LIMITAÇÕES CRÍTICAS IDENTIFICADAS**
+- **Problema de Testabilidade**: Predições em escalas experimentalmente inacessíveis
+- **Interpretações Especulativas**: Conexões com física nuclear carecem de derivações formais  
+- **Consistência Incompleta**: Ausência de provas profundas (renormalização, causalidade)
+- **Validação Limitada**: Apenas interna, não por revisão de pares independente
 
 ### 🧬 **Física Nuclear Revolucionária**
 - **Decaimento β⁻**: n → p + e⁻ + ν̄_e como liberação de informação confinada
@@ -121,12 +148,18 @@ class SpacetimeDilationSimulator:
     """Simulações numéricas validadas"""
 ```
 
-### 📈 **Resultados Científicos Validados**
-- **QFT Schwarzschild**: g_tt = -0.999015, ω_char = 0.999508 ✅
-- **Partículas térmicas**: N_Unruh = 0.500123 (efeito Bogoliubov) ✅  
-- **Limite espaço plano**: Rs/r = 1.39×10⁻⁹ → Minkowski ✅
-- **Limite não-relativístico**: v/c = 5×10⁻⁹ → Schrödinger ✅
-- **Predições experimentais**: 2/3 testáveis (decoerência + cosmologia) ✅
+### 📈 **Resultados Sólidos e Limitações**
+**✅ ASPECTOS MATEMATICAMENTE SÓLIDOS:**
+- **QFT Schwarzschild**: g_tt = -0.999015, ω_char = 0.999508 (rigoroso)
+- **Partículas térmicas**: N_Unruh = 0.500123 (efeito Bogoliubov correto)  
+- **Limite espaço plano**: Rs/r = 1.39×10⁻⁹ → Minkowski (validado)
+- **Limite não-relativístico**: v/c = 5×10⁻⁹ → Schrödinger (validado)
+
+**❌ LIMITAÇÕES CRÍTICAS:**
+- **Testabilidade**: 1/3 predições realisticamente testáveis (apenas cosmologia)
+- **Escalas**: Predições em 10⁻⁴²-10⁶¹, completamente inacessíveis
+- **Interpretações nucleares**: Especulativas, não derivadas formalmente  
+- **Consistência**: Provas de renormalização/causalidade incompletas
 
 ## 🌟 **Impacto Científico**
 
