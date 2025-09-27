@@ -1,7 +1,12 @@
 # 🧠 **"Horizonte -1": Exercício Dialético sobre Unificação Física**
 
 [![GitHub](https://img.shields.io/badge/GitHub-thiagomassensini%2Fquanta-blue?logo=github)](https://github.com/thiagomassensini/quanta)
-[![Python](https://img.shields.io## 📄 **Licença e Créditos**
+[![Python](https://img.shields.iothon-3.13+-green?logo=python)](https://python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
+[![Philosophy](https://img.shields.io/badge/Philosophy-Dialectical%20Physics-purple?logo=atom)](https://github.com/thiagomassensini/quanta)
+[![Status](https://img.shields.io/badge/Status-Exercício%20Filosófico-blue)](https://github.com/thiagomassensini/quanta)
+
+## 📄 **Licença e Créditos**
 
 Este projeto está licenciado sob MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
@@ -22,11 +27,7 @@ E aos físicos cujos fundamentos permitiram este experimento intelectual:
 
 **🧠 SÍNTESE ALCANÇADA**: Demonstração de como o pensamento dialético rigoroso pode revelar **limites epistemológicos fundamentais** na física teórica, gerando conhecimento através da **refutação sistemática** ao invés de confirmação superficial.
 
-*"O valor desta investigação não reside em ter descoberto nova física, mas em ter demonstrado como a dialética pode iluminar os fundamentos do conhecimento científico."*thon-3.13+-green?logo=python)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
-[![Philosophy](https://img.shields.io/badge/Philosophy-Dialectical%20Physics-purple?logo=atom)](https://github.com/thiagomassensini/quanta)
-[![Status](https://img.shields.io/badge/Status-Exercício%20Filosófico-blue)](https://github.com/thiagomassensini/quanta)
-
+*"O valor desta investigação não reside em ter descoberto nova física, mas em ter demonstrado como a dialética pode iluminar os fundamentos do conhecimento científico."*
 ## 🎭 **TRABALHO FILOSÓFICO**: Dialética Aplicada à Física Teórica
 
 > **Natureza do Trabalho**: 🧠 **INVESTIGAÇÃO DIALÉTICA** - Não é ciência formal, mas filosofia da ciência aplicada  
