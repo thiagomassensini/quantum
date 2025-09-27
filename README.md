@@ -157,6 +157,10 @@ jupyter lab notebooks/                     # Síntese filosófica interativa
 - ✅ **Incerteza**: Posição ↔ Momento (Heisenberg)
 - ✅ **Não-localidade**: Local ↔ Global (Bell)
 - ✅ **Medição**: Estado ↔ Colapso (Problema da medição)
+- Relatividade Geral (Einstein)
+- Mecânica Quântica (Heisenberg, Schrödinger, Dirac)
+- Física de Partículas (Modelo Padrão)
+- Gravidade Quântica (Loop Quantum Gravity, String Theory)
 
 ### 🧩 **QUAL SERIA A SÍNTESE FINAL?**
 
