@@ -184,86 +184,26 @@ Este trabalho demonstra que **"falhar cientificamente bem"** pode ser mais educa
 - **Kuhn, T.** - *A Estrutura das Revoluções Científicas* (Paradigmas)
 - **Feyerabend, P.** - *Contra o Método* (Anarquismo epistemológico)
 
-*"O valor desta investigação não está em ter descoberto uma nova física, mas em ter demonstrado como o pensamento dialético pode iluminar os fundamentos e limites do conhecimento científico."*
-    """Simulações numéricas validadas"""
-```
+*"O valor desta investigação não reside em ter descoberto nova física, mas em ter demonstrado como a dialética pode iluminar os fundamentos do conhecimento científico."*
 
-### 📈 **Resultados Sólidos e Limitações**
-**✅ ASPECTOS MATEMATICAMENTE SÓLIDOS:**
-- **QFT Schwarzschild**: g_tt = -0.999015, ω_char = 0.999508 (rigoroso)
-- **Partículas térmicas**: N_Unruh = 0.500123 (efeito Bogoliubov correto)  
-- **Limite espaço plano**: Rs/r = 1.39×10⁻⁹ → Minkowski (validado)
-- **Limite não-relativístico**: v/c = 5×10⁻⁹ → Schrödinger (validado)
+---
 
-**❌ LIMITAÇÕES CRÍTICAS:**
-- **Testabilidade**: 1/3 predições realisticamente testáveis (apenas cosmologia)
-- **Escalas**: Predições em 10⁻⁴²-10⁶¹, completamente inacessíveis
-- **Interpretações nucleares**: Especulativas, não derivadas formalmente  
-- **Consistência**: Provas de renormalização/causalidade incompletas
-
-## 🌟 **Impacto Científico**
-
-### 🏆 **Teorias Unificadas**
-1. **Relatividade Geral** ✅
-2. **Mecânica Quântica** ✅  
-3. **Física Nuclear** ✅
-4. **Física de Partículas** ✅
-5. **Termodinâmica Estatística** ✅
-
-### 🔗 **Conexões Estabelecidas**
-- **ER=EPR** (Maldacena & Susskind): Geometria ↔ Emaranhamento
-- **AdS/CFT** (Maldacena): Equivalência bulk/boundary
-- **Gravidade Emergente** (Verlinde): Efeitos entrópicos
-- **Buracos Negros Microscópicos** (Hawking): Massas pequenas → efeitos grandes
-
-## 📚 **Publicações e Referências**
-
-### 📖 **Literatura Base**
-- Einstein, A. (1915) - Relatividade Geral
-- Hawking, S. (1975) - Buracos Negros Microscópicos
-- Maldacena, J. (2013) - ER=EPR  
-- Verlinde, E. (2011) - Gravidade Emergente
-
-### 🎓 **Roadmap Científico**
-- [x] ✅ **Auditoria crítica e correções fundamentais** 
-- [x] ✅ **QFT em spacetime curvo formalmente implementado**
-- [x] ✅ **Recuperação de limites validada**
-- [x] ✅ **Predições experimentais quantificadas** 
-- [x] ✅ **Sistema integrado e testado**
-- [ ] 🔄 **Literatura review e posicionamento teórico**
-- [ ] 🔄 **Refinamento matemático (segunda ordem)**  
-- [ ] 🔄 **Colaborações experimentais (interferometria)**
-- [ ] 🔄 **Preparação para arXiv e peer review**
-
-## 👨‍💻 **Autor**
+## 👨‍🎓 **Autor do Experimento Filosófico**
 
 **Thiago Massensini**
-- 🌐 GitHub: [@thiagomassensini](https://github.com/thiagomassensini)
-- 📧 Repositório: [quantum](https://github.com/thiagomassensini/quantum)
-- 🔬 Teoria: "Horizonte -1" - Unificação Relatividade-Quântica
-
-## 📄 **Licença**
-
-Este projeto está licenciado sob MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 🙏 **Agradecimentos**
-
-Agradecimento especial à comunidade científica por décadas de fundamentos em:
-- Relatividade Geral (Einstein)
-- Mecânica Quântica (Heisenberg, Schrödinger, Dirac)
-- Física de Partículas (Modelo Padrão)
-- Gravidade Quântica (Loop Quantum Gravity, String Theory)
+- 🌐 GitHub: [@thiagomassensini](https://github.com/thiagomassensini)  
+- 📧 Repositório: [quanta](https://github.com/thiagomassensini/quanta)
+- 🧠 **Experimento Dialético**: "Horizonte -1" - Demonstração dos limites epistemológicos
 
 ---
 
----
+### ⚠️ **AVISO IMPORTANTE PARA LEITORES CASUAIS**
 
-## � **STATUS CIENTÍFICO ATUAL**
+**🚨 ESTE NÃO É UM TRABALHO DE FÍSICA TEÓRICA VÁLIDA**
 
-**SETEMBRO 2025**: Teoria "Horizonte -1" **FORMALMENTE IMPLEMENTADA**
-- ✅ **Problemas críticos corrigidos** (unidades, derivações, causalidade)
-- ✅ **QFT em spacetime curvo** implementado seguindo Birrell & Davies  
-- ✅ **Predições experimentais** quantificadas e testáveis
-- ✅ **Sistema científico integrado** e operacional
+✅ **É um exercício filosófico** sobre metodologia científica  
+✅ **Demonstra o valor da refutação rigorosa** na epistemologia  
+✅ **Aplica dialética hegeliana** para compreender limites do conhecimento  
+❌ **NÃO propõe teoria física real** - a "teoria" foi deliberadamente refutada
 
-### 🌌 **"A unificação emerge quando a relatividade e a quântica são tratadas com o rigor matemático que ambas merecem."** - Teoria "Horizonte -1"
+**🎯 Objetivo**: Mostrar como "falhar cientificamente bem" ensina mais que confirmações superficiais
